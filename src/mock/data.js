@@ -51,7 +51,7 @@ export const projectsData = [
     title: 'Product Catalogue',
     info: 'A demo webapp to display and filter products based on their categories.',
     info2: '',
-    url: 'https://github.com/catplotlib/ReactProductCatalogue',
+    url: 'https://my-shein-catalogue.netlify.app/',
     repo: 'https://github.com/catplotlib/ReactProductCatalogue', // if no repo, the button will not show up
   },
   {
@@ -60,7 +60,7 @@ export const projectsData = [
     title: 'Notebook styled Shopping List',
     info: 'A notebook-style shopping list app with edit and delete features, made in react.',
     info2: '',
-    url: 'https://github.com/catplotlib/ReactShoppingList',
+    url: 'https://our-shopping-list.netlify.app/',
     repo: 'https://github.com/catplotlib/ReactShoppingList', // if no repo, the button will not show up
   },
 ];
