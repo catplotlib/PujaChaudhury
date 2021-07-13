@@ -49,7 +49,7 @@
       }
 
       &-text {
-        text-align: left;
+        text-align: center;
 
         @include respond(tab-port) {
           font-size: 1.5rem;
@@ -79,7 +79,7 @@
       }
 
       &-text1 {
-        text-align: left;
+        text-align: center;
         font-size: 2.5rem;
         font-family: 'Poiret One', cursive;
 
