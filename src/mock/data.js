@@ -63,6 +63,15 @@ export const projectsData = [
     url: 'https://our-shopping-list.netlify.app/',
     repo: 'https://github.com/catplotlib/ReactShoppingList', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'project5.png',
+    title: 'Notebook styled Shopping List',
+    info: 'A notebook-style shopping list app with edit and delete features, made in react.',
+    info2: '',
+    url: 'https://lorem-ipsum-replacer.netlify.app/',
+    repo: 'https://github.com/catplotlib/ReactText-Generator', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
