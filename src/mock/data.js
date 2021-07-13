@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'puja.jpg',
+  img: 'profile.jpg',
   paragraphOne: 'My name is Puja Chaudhury. I am a Front End Engineer currently in Bangalore. I would like to think of myself as a motivated developer who loves to code and create beautiful and functional websites.',
   paragraphTwo: 'I am very fond of the Developer community and I try to learn new things in the devspace every day. I believe and contribute to open source as it helps me grow as a developer and I like to build in public as well. Currently I am attempting the #100daysOCode Challenge. You can track my progress on Twitter! ',
   paragraphThree: 'Frontend Skills: React, Javascript, jQuery',
