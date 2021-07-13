@@ -66,8 +66,8 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project5.png',
-    title: 'Notebook styled Shopping List',
-    info: 'A notebook-style shopping list app with edit and delete features, made in react.',
+    title: 'Text Generator',
+    info: 'A placeholder text generator where the user can set the number of paragraphs they need. Handled the edge cases as well! Used a sort of stitching effect as my CSS.',
     info2: '',
     url: 'https://lorem-ipsum-replacer.netlify.app/',
     repo: 'https://github.com/catplotlib/ReactText-Generator', // if no repo, the button will not show up
