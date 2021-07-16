@@ -77,7 +77,7 @@ export const projectsData = [
 // CONTACT DATA
 export const contactData = {
   cta: '',
-  btn: '',
+  btn: 'Medium',
   email: 'contact.pujachaudhury@gmail.com',
 };
 
