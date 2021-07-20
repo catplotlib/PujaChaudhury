@@ -24,7 +24,7 @@ export const aboutData = {
     'I am very fond of the Developer community and I try to learn new things in the devspace every day. I believe and contribute to open source as it helps me grow as a developer and I like to build in public as well. Currently I am attempting the #100daysOCode Challenge. You can track my progress on Twitter! ',
   paragraphThree: 'Frontend Skills: React, Javascript, jQuery',
   paragraphFour: 'Backend Skills: Nodejs, Expressjs',
-  resume: 'https://github.com/catplotlib', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1oziHS6qCXek92z27u-kN9mLBN-nWLBJQ/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
