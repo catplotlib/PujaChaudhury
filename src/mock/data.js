@@ -18,8 +18,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'My name is Puja Chaudhury. I am a Front End Engineer currently in Bangalore. I would like to think of myself as a motivated developer who loves to code and create beautiful and functional websites.',
-  paragraphTwo: 'I am very fond of the Developer community and I try to learn new things in the devspace every day. I believe and contribute to open source as it helps me grow as a developer and I like to build in public as well. Currently I am attempting the #100daysOCode Challenge. You can track my progress on Twitter! ',
+  paragraphOne:
+    'My name is Puja Chaudhury. I am a Front End Engineer currently in Bangalore. I would like to think of myself as a motivated developer who loves to code and create beautiful and functional websites.',
+  paragraphTwo:
+    'I am very fond of the Developer community and I try to learn new things in the devspace every day. I believe and contribute to open source as it helps me grow as a developer and I like to build in public as well. Currently I am attempting the #100daysOCode Challenge. You can track my progress on Twitter! ',
   paragraphThree: 'Frontend Skills: React, Javascript, jQuery',
   paragraphFour: 'Backend Skills: Nodejs, Expressjs',
   resume: 'https://github.com/catplotlib', // if no resume, the button will not show up
@@ -27,6 +29,15 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'project6.png',
+    title: 'Aximos-The Adventure Game',
+    info: 'This is a choose your own story, text based game. Made completely in React and deployed using netlify. I used useState to set up the states of the players choices and carried them forward in their next choices.',
+    info2: '',
+    url: 'https://text-based-adventure-game.netlify.app/',
+    repo: 'https://github.com/catplotlib/Adventure-based-Text-game', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'project1.png',
