@@ -22,16 +22,16 @@ export const aboutData = {
     'My name is Puja Chaudhury. I am a Front End Engineer currently in Bangalore. I would like to think of myself as a motivated developer who loves to code and create beautiful and functional websites.',
   paragraphTwo:
     'I am very fond of the Developer community and I try to learn new things in the devspace every day. I believe and contribute to open source as it helps me grow as a developer and I like to build in public as well. Currently I am attempting the #100daysOCode Challenge. You can track my progress on Twitter! ',
-  paragraphThree: 'Frontend Skills: React, React Native, Javascript, jQuery, Gatsby',
-  paragraphFour: 'Backend Skills: Nodejs, Expressjs, MongoDB',
-  resume: 'https://drive.google.com/file/d/1oziHS6qCXek92z27u-kN9mLBN-nWLBJQ/view?usp=sharing', // if no resume, the button will not show up
+  paragraphThree: 'Frontend Skills: React, React Native, Javascript, jQuery, Gatsby, Next, Tailwind, SCSS',
+  paragraphFour: 'Backend Skills: Nodejs, Expressjs, MongoDB, Python, Django',
+  resume: 'https://pdfhost.io/v/bLzL0FE~i_Pujas_Resume_1.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project6.png',
+    img: 'project8.png',
     title: 'Newsletter (React+django)',
     info: 'A fullstack application that lets the users to join a newsletter by through their email address. Frontend is made in react and Tailwindcss and backend is made using Django Rest Framework.',
     info2: '',
