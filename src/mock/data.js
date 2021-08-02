@@ -32,6 +32,14 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project6.png',
+    title: 'Newsletter (React+django)',
+    info: 'A fullstack application that lets the users to join a newsletter by through their email address. Frontend is made in react and Tailwindcss and backend is made using Django Rest Framework.',
+    info2: '',
+    repo: 'https://github.com/catplotlib/Newsletter', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project6.png',
     title: 'Aximos-The Adventure Game (React)',
     info: 'This is a choose your own story, text based game. Made completely in React and deployed using netlify. I used useState to set up the states of the players choices and carried them forward in their next choices.',
     info2: '',
