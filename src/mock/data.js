@@ -22,13 +22,23 @@ export const aboutData = {
     'My name is Puja Chaudhury. I am a Front End Engineer currently in Bangalore. I would like to think of myself as a motivated developer who loves to code and create beautiful and functional websites.',
   paragraphTwo:
     'I am very fond of the Developer community and I try to learn new things in the devspace every day. I believe and contribute to open source as it helps me grow as a developer and I like to build in public as well. Currently I am attempting the #100daysOCode Challenge. You can track my progress on Twitter! ',
-  paragraphThree: 'Frontend Skills: React, React Native, Javascript, jQuery, Gatsby, Next, Tailwind, SCSS',
+  paragraphThree:
+    'Frontend Skills: React, React Native, Javascript, jQuery, Gatsby, Next, Tailwind, SCSS',
   paragraphFour: 'Backend Skills: Nodejs, Expressjs, MongoDB, Python, Django',
   resume: 'https://pdfhost.io/v/bLzL0FE~i_Pujas_Resume_1.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'project9.mp4',
+    title: 'RainCheck- A weather App (React Native)',
+    info: 'A weather app made in react native that fetches the weather API and shows the current teperature and weather and forecasts temperature for the next two days.',
+    info2: '',
+    url: 'https://expo.dev/@catplotlib/raincheck',
+    repo: 'https://github.com/catplotlib/WeatherApp', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'project8.png',
