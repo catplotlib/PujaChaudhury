@@ -32,7 +32,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project9.mp4',
+    img: 'project9.png',
     title: 'RainCheck- A weather App (React Native)',
     info: 'A weather app made in react native that fetches the weather API and shows the current teperature and weather and forecasts temperature for the next two days.',
     info2: '',
