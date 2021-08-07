@@ -67,6 +67,15 @@ export const projectsData = [
   },
   {
     id: nanoid(),
+    img: 'project10.png',
+    title: 'Lets play with APIs- Rick and Morty(React)',
+    info: 'A basic website displaying all the characters of Rick and Morty and with a search functionality',
+    info2: '',
+    url: 'https://rickandmorty-and-funwithapi.netlify.app/',
+    repo: 'https://github.com/catplotlib/RickAndMortyAPI', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'project1.png',
     title: 'Stardew Valley (React)',
     info: 'A mini-project developed from scratch showcasing information about the RPG game-Stardew Valley. Made completely in React and styled in CSS.',
@@ -93,15 +102,7 @@ export const projectsData = [
     url: 'https://my-shein-catalogue.netlify.app/',
     repo: 'https://github.com/catplotlib/ReactProductCatalogue', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'project4.png',
-    title: 'Notebook styled Shopping List (React)',
-    info: 'A notebook-style shopping list app with edit and delete features, made in react.',
-    info2: '',
-    url: 'https://our-shopping-list.netlify.app/',
-    repo: 'https://github.com/catplotlib/ReactShoppingList', // if no repo, the button will not show up
-  },
+
   // {
   //   id: nanoid(),
   //   img: 'project5.png',
